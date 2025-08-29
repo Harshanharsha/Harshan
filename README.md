@@ -27,9 +27,9 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](http://www.linkedin.com/in/harshan-harsha-3858b6298)  
-[![GitHub](https://github.com/Harshanharsha)  
-[![Instagram](https://www.instagram.com/___harsha___07_?igsh=YTl1ZG95dWY5ODBv)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/harshan-harsha-3858b6298)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Harshanharsha)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___harsha___07_?igsh=YTl1ZG95dWY5ODBv)  
 
 ---
 
