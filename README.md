@@ -59,14 +59,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Harshanharsha/Harshanharsha/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🌐 Connect with Me  
 
 <p align="center">
