@@ -12,7 +12,8 @@
 - 🔭 I’m currently working on **Java Full-Stack projects**  
 - 🌱 I’m learning **Microservices, Docker, Advanced React**  
 - 👯 I’m open to collaborate on **Spring Boot + React projects**  
-- 📫 How to reach me: **harshanharsha07@gmail.com**  
+- 📫 How to reach me: **harshanharsha07@gmail.com**
+- 📞 Contact me: **+91 9448246766**
 - ⚡ Fun fact: I love coding and automating workflows 🚀  
 
 ---
